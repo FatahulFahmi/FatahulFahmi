@@ -12,11 +12,17 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<br><br>
+<p align="left">
 
-<p align="left">-🔭 I’m currently studying at Universitas Negeri Padang<br>- 📚 I'm currently learning JavaScript,Python<br>- ⚡ In my free time I (...)</p>
+- 🔭 I’m currently studying at Universitas Negeri Padang<br>
+
+- 📚 I'm currently learning JavaScript,Python<br>
+
+- ⚡ In my free time I (...)</p>
 
 ###
+
+<br>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=78&section=header&reversal=true&text=Z&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=-45&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -44,11 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+<br>
 
-<h3 align="left">Let's Connect :</h3>
+## <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFvOXIzdGk0ZjJleDhzOWl4OHdwdTlvMHM0dnRnYTFoZWZqaWlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlkLoMmWTkL6wBqNl2/giphy.gif" width = "30">Lets Connect
 
-###
+##
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
@@ -59,6 +65,8 @@
 </div>
 
 ###
+
+<br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
