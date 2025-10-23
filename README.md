@@ -8,9 +8,12 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
+<br>
+<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
 <p align="left">
 
@@ -53,8 +56,6 @@
 <br>
 
 ## <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFvOXIzdGk0ZjJleDhzOWl4OHdwdTlvMHM0dnRnYTFoZWZqaWlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlkLoMmWTkL6wBqNl2/giphy.gif" width = "30">Lets Connect
-
-##
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
