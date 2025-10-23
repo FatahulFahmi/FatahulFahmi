@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="427" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxb3pqZmd2bGU1OGx1YTN6YTI4MG90ZG5ubnQ2NDNiOWN1aTduZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAzW9Oi28p1VS/giphy.gif"  />
+  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxb3pqZmd2bGU1OGx1YTN6YTI4MG90ZG5ubnQ2NDNiOWN1aTduZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAzW9Oi28p1VS/giphy.gif"  />
 </div>
 
 ###
@@ -7,6 +7,14 @@
 <h1 align="center">Hi, I'm Fatahul Fahmi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum..❤️;Welcome+To+My+World!;"
+    />
+  </a>
+</p>
 
 <br>
 <br>
@@ -17,7 +25,14 @@
 
 <img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
+<h2 align="left" style="border-bottom:none; margin-bottom:0;">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  </picture>
+  About me
+</h2>
+
+<br>
 
 <p align="left">
 
@@ -57,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-<br>
+<br><br>
 
 ## <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFvOXIzdGk0ZjJleDhzOWl4OHdwdTlvMHM0dnRnYTFoZWZqaWlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlkLoMmWTkL6wBqNl2/giphy.gif" width = "30">Lets Connect
 
@@ -71,15 +86,28 @@
 
 ###
 
-<br>
+<br><br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatahulFahmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatahulFahmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="100" alt="languages graph"  />
+
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=FatahulFahmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" 
+    height="150" 
+    alt="stats graph" 
+    style="vertical-align: middle; margin-right: 10px;" 
+  />
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=FatahulFahmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false" 
+    height="150" 
+    alt="languages graph" 
+    style="vertical-align: middle;" 
+  />
+
 </div>
 
 ---
