@@ -20,12 +20,7 @@
 
 <img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
-<div align="left" style="font-size: 2em; font-weight: 700; color: #000000ff;">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
-  </picture>
-  About me
-</div>
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br>
 
