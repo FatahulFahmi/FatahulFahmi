@@ -4,48 +4,20 @@
 
 ###
 
-<h1 align="center">
-  <span style="font-size:30px; display:inline-block; animation:waving 2s infinite;"></span>
-  Hi, I'm <span style="color:#ff0000;">Fatahul Fahmi</span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<h1 align="center">
-  <span style="font-family:monospace; font-size:28px; color:#00FFFF; text-shadow:0 0 10px #f70015ff, 0 0 30px #f30707ff; animation:pulse 1.8s infinite alternate;">
-    <span style="font-size:18px; color:#ff0000;">Creative Developer | Tech Explorer | Designer</span>
-  </span>
-</h1>
+<h1 align="center">Hi, I'm Fatahul Fahmi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 
-<style>
-@keyframes pulse {
-  from { text-shadow: 0 0 5px #00FFFF, 0 0 15px #A970FF; }
-  to { text-shadow: 0 0 20px #00FFFF, 0 0 50px #A970FF; }
-}
-</style>
-
-<h1 align="center">
-  <span style="font-size:30px; font-weight:bold; 
-  background: linear-gradient(90deg, #00FFFF, #A970FF, #FF00C8, #00FFFF);
-  background-size: 400%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: aurora 6s linear infinite;">Informatics Student</span>
-</h1>
-
-<style>
-@keyframes aurora {
-  0% { background-position: 0%; }
-  100% { background-position: 400%; }
-}
-</style>
-
 <br>
 <br>
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b>About me</b>
+<br>
+
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
+
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 
 <p align="left">
 
@@ -87,8 +59,6 @@
 
 <br>
 
----
-
 ## <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFvOXIzdGk0ZjJleDhzOWl4OHdwdTlvMHM0dnRnYTFoZWZqaWlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlkLoMmWTkL6wBqNl2/giphy.gif" width = "30">Lets Connect
 
 <div align="center">
@@ -103,8 +73,6 @@
 
 <br>
 
----
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 ###
@@ -114,20 +82,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatahulFahmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-###
-
-<br>
-
 ---
 
-<br>
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatahulFahmi/FatahulFahmi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatahulFahmi/FatahulFahmi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FatahulFahmi/FatahulFahmi/output/pacman-contribution-graph.svg">
 </picture>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ" alt="Typing SVG" />
-</h1>
