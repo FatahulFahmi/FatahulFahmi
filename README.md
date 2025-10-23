@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxb3pqZmd2bGU1OGx1YTN6YTI4MG90ZG5ubnQ2NDNiOWN1aTduZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAzW9Oi28p1VS/giphy.gif"  />
+  <img height="427" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkxb3pqZmd2bGU1OGx1YTN6YTI4MG90ZG5ubnQ2NDNiOWN1aTduZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAzW9Oi28p1VS/giphy.gif"  />
 </div>
 
 ###
@@ -8,9 +8,11 @@
 
 ###
 
-<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<br><br>
 
 <p align="left">-🔭 I’m currently studying at Universitas Negeri Padang<br>- 📚 I'm currently learning JavaScript,Python<br>- ⚡ In my free time I (...)</p>
 
@@ -22,7 +24,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">Currently Exploring
+<br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">Currently Exploring
 
 <br>
 
@@ -56,7 +60,7 @@
 
 ###
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 35px> </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 ###
 
