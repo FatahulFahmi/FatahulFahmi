@@ -9,11 +9,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00fff7&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum.. &hearts; ; Welcome+To+My+World!;"
-    />
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum..&hearts;;Welcome To My World!"></a>
 </p>
 
 <br>
@@ -24,7 +20,7 @@
 
 <img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjUxMWpqZTI4ejE4Zjl4dThrM2ttMzRxbmV0ZHlpYmh0b3hlNXdyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
 
-<div align="left" style="font-size: 1.5em; font-weight: 700; color: #000000ff;">
+<div align="left" style="font-size: 2em; font-weight: 700; color: #000000ff;">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;">
   </picture>
